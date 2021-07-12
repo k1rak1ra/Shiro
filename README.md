@@ -1,3 +1,5 @@
+# A chess bot in C# (!!WARNING!! IT WORKS, BUT THIS IS MY OLDEST PROJECT WITH LOW QUALITY SPAGHETTI CODE. IT WILL EAT YOUR RAM!!) 
+
 PIECE IDs:  
 1 = pawn  
 5 = rook, the tower thing  
