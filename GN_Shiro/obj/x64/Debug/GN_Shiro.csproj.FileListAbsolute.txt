@@ -1,0 +1,14 @@
+C:\Users\gauso001\documents\visual studio 2017\Projects\GN_Shiro\GN_Shiro\bin\x64\Debug\GN_Shiro.exe.config
+C:\Users\gauso001\documents\visual studio 2017\Projects\GN_Shiro\GN_Shiro\bin\x64\Debug\GN_Shiro.exe
+C:\Users\gauso001\documents\visual studio 2017\Projects\GN_Shiro\GN_Shiro\bin\x64\Debug\GN_Shiro.pdb
+C:\Users\gauso001\documents\visual studio 2017\Projects\GN_Shiro\GN_Shiro\bin\x64\Debug\MySql.Data.xml
+C:\Users\gauso001\documents\visual studio 2017\Projects\GN_Shiro\GN_Shiro\obj\x64\Debug\GN_Shiro.exe
+C:\Users\gauso001\documents\visual studio 2017\Projects\GN_Shiro\GN_Shiro\obj\x64\Debug\GN_Shiro.pdb
+C:\Users\gauso001\documents\visual studio 2017\Projects\GN_Shiro\GN_Shiro\obj\x64\Debug\GN_Shiro.csprojResolveAssemblyReference.cache
+C:\Users\AdministratorGNGRm\Documents\Visual Studio 2017\Projects\GN_Shiro\GN_Shiro\bin\x64\Debug\GN_Shiro.exe.config
+C:\Users\AdministratorGNGRm\Documents\Visual Studio 2017\Projects\GN_Shiro\GN_Shiro\bin\x64\Debug\GN_Shiro.exe
+C:\Users\AdministratorGNGRm\Documents\Visual Studio 2017\Projects\GN_Shiro\GN_Shiro\bin\x64\Debug\GN_Shiro.pdb
+C:\Users\AdministratorGNGRm\Documents\Visual Studio 2017\Projects\GN_Shiro\GN_Shiro\bin\x64\Debug\MySql.Data.xml
+C:\Users\AdministratorGNGRm\Documents\Visual Studio 2017\Projects\GN_Shiro\GN_Shiro\obj\x64\Debug\GN_Shiro.csprojResolveAssemblyReference.cache
+C:\Users\AdministratorGNGRm\Documents\Visual Studio 2017\Projects\GN_Shiro\GN_Shiro\obj\x64\Debug\GN_Shiro.exe
+C:\Users\AdministratorGNGRm\Documents\Visual Studio 2017\Projects\GN_Shiro\GN_Shiro\obj\x64\Debug\GN_Shiro.pdb

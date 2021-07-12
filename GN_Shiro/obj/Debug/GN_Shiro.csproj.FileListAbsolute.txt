@@ -1,0 +1,24 @@
+c:\users\gauso001\documents\visual studio 2017\Projects\GN_Shiro\GN_Shiro\obj\Debug\GN_Shiro.csprojResolveAssemblyReference.cache
+c:\users\gauso001\documents\visual studio 2017\Projects\GN_Shiro\GN_Shiro\bin\Debug\GN_Shiro.exe.config
+c:\users\gauso001\documents\visual studio 2017\Projects\GN_Shiro\GN_Shiro\bin\Debug\GN_Shiro.exe
+c:\users\gauso001\documents\visual studio 2017\Projects\GN_Shiro\GN_Shiro\bin\Debug\GN_Shiro.pdb
+c:\users\gauso001\documents\visual studio 2017\Projects\GN_Shiro\GN_Shiro\bin\Debug\MySql.Data.dll
+c:\users\gauso001\documents\visual studio 2017\Projects\GN_Shiro\GN_Shiro\bin\Debug\MySql.Data.xml
+c:\users\gauso001\documents\visual studio 2017\Projects\GN_Shiro\GN_Shiro\obj\Debug\GN_Shiro.exe
+c:\users\gauso001\documents\visual studio 2017\Projects\GN_Shiro\GN_Shiro\obj\Debug\GN_Shiro.pdb
+C:\Users\AdministratorGNGRm\Documents\Visual Studio 2017\Projects\GN_Shiro\GN_Shiro\bin\Debug\GN_Shiro.exe.config
+C:\Users\AdministratorGNGRm\Documents\Visual Studio 2017\Projects\GN_Shiro\GN_Shiro\bin\Debug\GN_Shiro.exe
+C:\Users\AdministratorGNGRm\Documents\Visual Studio 2017\Projects\GN_Shiro\GN_Shiro\bin\Debug\GN_Shiro.pdb
+C:\Users\AdministratorGNGRm\Documents\Visual Studio 2017\Projects\GN_Shiro\GN_Shiro\bin\Debug\MySql.Data.xml
+C:\Users\AdministratorGNGRm\Documents\Visual Studio 2017\Projects\GN_Shiro\GN_Shiro\obj\Debug\GN_Shiro.csprojResolveAssemblyReference.cache
+C:\Users\AdministratorGNGRm\Documents\Visual Studio 2017\Projects\GN_Shiro\GN_Shiro\obj\Debug\GN_Shiro.exe
+C:\Users\AdministratorGNGRm\Documents\Visual Studio 2017\Projects\GN_Shiro\GN_Shiro\obj\Debug\GN_Shiro.pdb
+C:\Users\gauso001\Source\Repos\Shiro\GN_Shiro\bin\Debug\GN_Shiro.exe.config
+C:\Users\gauso001\Source\Repos\Shiro\GN_Shiro\bin\Debug\GN_Shiro.exe
+C:\Users\gauso001\Source\Repos\Shiro\GN_Shiro\bin\Debug\GN_Shiro.pdb
+C:\Users\gauso001\Source\Repos\Shiro\GN_Shiro\bin\Debug\MySql.Data.dll
+C:\Users\gauso001\Source\Repos\Shiro\GN_Shiro\bin\Debug\MySql.Data.xml
+C:\Users\gauso001\Source\Repos\Shiro\GN_Shiro\obj\Debug\GN_Shiro.csprojResolveAssemblyReference.cache
+C:\Users\gauso001\Source\Repos\Shiro\GN_Shiro\obj\Debug\GN_Shiro.exe
+C:\Users\gauso001\Source\Repos\Shiro\GN_Shiro\obj\Debug\GN_Shiro.pdb
+C:\Users\gauso001\Source\Repos\Shiro\GN_Shiro\obj\Debug\GN_Shiro.csproj.CoreCompileInputs.cache

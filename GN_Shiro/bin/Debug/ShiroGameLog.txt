@@ -1,0 +1,2004 @@
+12/10/2017 5:47:37 PM:EXECUTION HAS BEGIN!
+12/10/2017 5:47:38 PM:Pre-programmed opening move performed!
+12/10/2017 5:47:38 PM:______|___1__|___2__|___3__|___4__|___5__|___6__|___7__|___8__|
+12/10/2017 5:47:38 PM:__10__|_2051_|_2021_|_2031_|_2071_|_2901_|_2032_|_2022_|_2052_|
+12/10/2017 5:47:38 PM:__20__|_2011_|_2012_|_2013_|_2014_|_2015_|_2016_|_2017_|_2018_|
+12/10/2017 5:47:38 PM:__30__|______|______|______|______|______|______|______|______|
+12/10/2017 5:47:38 PM:__40__|______|______|______|______|______|______|______|______|
+12/10/2017 5:47:38 PM:__50__|______|______|______|_1014_|______|______|______|______|
+12/10/2017 5:47:38 PM:__60__|______|______|______|______|______|______|______|______|
+12/10/2017 5:47:38 PM:__70__|_1011_|_1012_|_1013_|______|_1015_|_1016_|_1017_|_1018_|
+12/10/2017 5:47:38 PM:__80__|_1051_|_1021_|_1031_|_1071_|_1901_|_1032_|_1022_|_1052_|
+12/10/2017 5:47:55 PM:______|___1__|___2__|___3__|___4__|___5__|___6__|___7__|___8__|
+12/10/2017 5:47:55 PM:__10__|_2051_|_2021_|_2031_|_2071_|_2901_|_2032_|_2022_|_2052_|
+12/10/2017 5:47:55 PM:__20__|_2011_|_2012_|_2013_|______|_2015_|_2016_|_2017_|_2018_|
+12/10/2017 5:47:55 PM:__30__|______|______|______|______|______|______|______|______|
+12/10/2017 5:47:55 PM:__40__|______|______|______|_2014_|______|______|______|______|
+12/10/2017 5:47:55 PM:__50__|______|______|______|_1014_|______|______|______|______|
+12/10/2017 5:47:55 PM:__60__|______|______|______|______|______|______|______|______|
+12/10/2017 5:47:55 PM:__70__|_1011_|_1012_|_1013_|______|_1015_|_1016_|_1017_|_1018_|
+12/10/2017 5:47:55 PM:__80__|_1051_|_1021_|_1031_|_1071_|_1901_|_1032_|_1022_|_1052_|
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 74
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 74
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 74
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 74
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 74
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 74
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 74
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:55 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 74
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 74
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 74
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 74
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 74
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:
+12/10/2017 5:47:56 PM:Pawn id#14
+12/10/2017 5:47:56 PM:
+12/10/2017 5:47:56 PM:Pawn id#11
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM: Double move:
+12/10/2017 5:47:56 PM: 71-->51
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:   Single move:
+12/10/2017 5:47:56 PM:   71-->61
+12/10/2017 5:47:56 PM:
+12/10/2017 5:47:56 PM:Pawn id#12
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM: Double move:
+12/10/2017 5:47:56 PM: 72-->52
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:   Single move:
+12/10/2017 5:47:56 PM:   72-->62
+12/10/2017 5:47:56 PM:
+12/10/2017 5:47:56 PM:Pawn id#13
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM: Double move:
+12/10/2017 5:47:56 PM: 73-->53
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:   Single move:
+12/10/2017 5:47:56 PM:   73-->63
+12/10/2017 5:47:56 PM:
+12/10/2017 5:47:56 PM:Pawn id#15
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM: Double move:
+12/10/2017 5:47:56 PM: 75-->55
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:   Single move:
+12/10/2017 5:47:56 PM:   75-->65
+12/10/2017 5:47:56 PM:
+12/10/2017 5:47:56 PM:Pawn id#16
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM: Double move:
+12/10/2017 5:47:56 PM: 76-->56
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:   Single move:
+12/10/2017 5:47:56 PM:   76-->66
+12/10/2017 5:47:56 PM:
+12/10/2017 5:47:56 PM:Pawn id#17
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM: Double move:
+12/10/2017 5:47:56 PM: 77-->57
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:   Single move:
+12/10/2017 5:47:56 PM:   77-->67
+12/10/2017 5:47:56 PM:
+12/10/2017 5:47:56 PM:Pawn id#18
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM: Double move:
+12/10/2017 5:47:56 PM: 78-->58
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:   Single move:
+12/10/2017 5:47:56 PM:   78-->68
+12/10/2017 5:47:56 PM:
+12/10/2017 5:47:56 PM:Tower id#51
+12/10/2017 5:47:56 PM:
+12/10/2017 5:47:56 PM:Knight id#21
+12/10/2017 5:47:56 PM:Projection pass on 85
+12/10/2017 5:47:56 PM:Move: -21
+12/10/2017 5:47:56 PM:82-->61
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Move: -19
+12/10/2017 5:47:57 PM:82-->63
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Move: -8
+12/10/2017 5:47:57 PM:82-->74
+12/10/2017 5:47:57 PM:
+12/10/2017 5:47:57 PM:Bishop id#31
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM: Move up and to the right 1
+12/10/2017 5:47:57 PM:83-->74
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM: Move up and to the right 2
+12/10/2017 5:47:57 PM:83-->65
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM: Move up and to the right 3
+12/10/2017 5:47:57 PM:83-->56
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM: Move up and to the right 4
+12/10/2017 5:47:57 PM:83-->47
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM: Move up and to the right 5
+12/10/2017 5:47:57 PM:83-->38
+12/10/2017 5:47:57 PM:
+12/10/2017 5:47:57 PM:Queen id#71
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM: Move vertically up 1
+12/10/2017 5:47:57 PM:84-->74
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM: Move vertically up 2
+12/10/2017 5:47:57 PM:84-->64
+12/10/2017 5:47:57 PM:
+12/10/2017 5:47:57 PM:King id#901
+12/10/2017 5:47:57 PM:Projection pass on 74
+12/10/2017 5:47:57 PM: Move up and to the left
+12/10/2017 5:47:57 PM:85-->74
+12/10/2017 5:47:57 PM:
+12/10/2017 5:47:57 PM:Bishop id#32
+12/10/2017 5:47:57 PM:
+12/10/2017 5:47:57 PM:Knight id#22
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Move: -21
+12/10/2017 5:47:57 PM:87-->66
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Move: -19
+12/10/2017 5:47:57 PM:87-->68
+12/10/2017 5:47:57 PM:
+12/10/2017 5:47:57 PM:Tower id#52
+12/10/2017 5:47:57 PM:
+12/10/2017 5:47:57 PM:Number of possible moves: 27
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 74
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:
+12/10/2017 5:47:57 PM:Rendering tree down to layer 5. Unless being run on Starsha, this will take a while...
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 74
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:Projection pass on 85
+12/10/2017 5:47:57 PM:
+12/10/2017 5:47:57 PM:Projection pass on 15
+12/10/2017 5:47:57 PM:Projection pass on 15
+12/10/2017 5:47:57 PM:Projection pass on 15
+12/10/2017 5:47:57 PM:
+12/10/2017 5:47:57 PM:Projection pass on 15
+12/10/2017 5:47:57 PM:Projection pass on 15
+12/10/2017 5:47:57 PM:Projection pass on 15
+12/10/2017 5:47:57 PM:Projection pass on 15
+12/10/2017 5:47:57 PM:Projection pass on 15
+12/10/2017 5:47:57 PM:Projection pass on 15
+12/10/2017 5:47:57 PM:Projection pass on 15
+12/10/2017 5:47:57 PM:Projection pass on 24
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 24
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 24
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:58 PM:
+12/10/2017 5:47:58 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:47:59 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:00 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:Projection pass on 24
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:Projection pass on 24
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:Projection pass on 24
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:Projection pass on 24
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:01 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:02 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 24
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:03 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 24
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 24
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:04 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:05 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:06 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 24
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:
+12/10/2017 5:48:07 PM:
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:07 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 24
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 24
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:08 PM:
+12/10/2017 5:48:08 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 24
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:09 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:10 PM:Projection pass on 24
+12/10/2017 5:48:10 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 24
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 24
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:11 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:12 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:Projection pass on 24
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:13 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 24
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:14 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:15 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 24
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:16 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:17 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 24
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 24
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:
+12/10/2017 5:48:18 PM:
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:18 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:19 PM:Projection pass on 24
+12/10/2017 5:48:19 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 24
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:20 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 24
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Tower id#51
+12/10/2017 5:48:21 PM:
+12/10/2017 5:48:21 PM:Knight id#21
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:21 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:
+12/10/2017 5:48:22 PM:Bishop id#31
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:22 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 24
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 24
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Move: 21
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:23 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:Projection pass on 24
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:         Move down and to the right 1
+12/10/2017 5:48:24 PM:13-->24
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:         Move down and to the right 2
+12/10/2017 5:48:24 PM:13-->35
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:24 PM:         Move down and to the right 3
+12/10/2017 5:48:24 PM:Projection pass on 15
+12/10/2017 5:48:25 PM:Projection pass on 15
+12/10/2017 5:48:25 PM:Projection pass on 15
+12/10/2017 5:48:25 PM:Projection pass on 15
+12/10/2017 5:48:25 PM:Projection pass on 15
+12/10/2017 5:48:25 PM:Projection pass on 15
+12/10/2017 5:48:25 PM:
+12/10/2017 5:48:25 PM:Projection pass on 15
+12/10/2017 5:48:25 PM:Projection pass on 15
+12/10/2017 5:48:25 PM:Projection pass on 15
+12/10/2017 5:48:25 PM:
+12/10/2017 5:48:25 PM:Projection pass on 15
+12/10/2017 5:48:25 PM:Projection pass on 15
+12/10/2017 5:48:25 PM:Projection pass on 15
+12/10/2017 5:48:25 PM:Projection pass on 15
+12/10/2017 5:48:25 PM:         Captures:1018, Valued at 10
+12/10/2017 5:48:25 PM:
+12/10/2017 5:48:25 PM:Projection pass on 15
+12/10/2017 5:48:25 PM:Projection pass on 15
+12/10/2017 5:48:25 PM:         Move vertically down 1
+12/10/2017 5:48:25 PM:Projection pass on 15
+12/10/2017 5:48:25 PM:         Move vertically down 1
+12/10/2017 5:48:25 PM:14-->24
+12/10/2017 5:48:25 PM:Projection pass on 15
+12/10/2017 5:48:25 PM:Projection pass on 15
+12/10/2017 5:48:25 PM:Projection pass on 15
+12/10/2017 5:48:25 PM:Projection pass on 15
+12/10/2017 5:48:25 PM:12-->24
+12/10/2017 5:48:26 PM:
+12/10/2017 5:48:26 PM:Bishop id#31
+12/10/2017 5:48:26 PM:Bishop id#31
+12/10/2017 5:48:26 PM:Projection pass on 15
+12/10/2017 5:48:26 PM:Projection pass on 15
+12/10/2017 5:48:26 PM:Projection pass on 15
+12/10/2017 5:48:26 PM:Projection pass on 15
+12/10/2017 5:48:26 PM:
+12/10/2017 5:48:26 PM:Projection pass on 15
+12/10/2017 5:48:26 PM:Projection pass on 15
+12/10/2017 5:48:26 PM:Projection pass on 15
+12/10/2017 5:48:26 PM:Projection pass on 15
+12/10/2017 5:48:26 PM:         Move down and to the right 2
+12/10/2017 5:48:26 PM:13-->35
+12/10/2017 5:48:26 PM:Projection pass on 15
+12/10/2017 5:48:26 PM:Bishop id#32
+12/10/2017 5:48:26 PM:
+12/10/2017 5:48:26 PM:Knight id#22
+12/10/2017 5:48:26 PM:Projection pass on 15
+12/10/2017 5:48:26 PM:Move: 19
+12/10/2017 5:48:26 PM:Projection pass on 15
+12/10/2017 5:48:26 PM:         Move down and to the right 4
+12/10/2017 5:48:26 PM:13-->57
+12/10/2017 5:48:26 PM:Projection pass on 15
+12/10/2017 5:48:26 PM:Projection pass on 15
+12/10/2017 5:48:26 PM:Projection pass on 15
+12/10/2017 5:48:26 PM:Projection pass on 15
+12/10/2017 5:48:26 PM:Move: 19
+12/10/2017 5:48:27 PM:17-->36
+12/10/2017 5:48:27 PM:Projection pass on 15
+12/10/2017 5:48:27 PM:Move: 21
+12/10/2017 5:48:27 PM:17-->38
+12/10/2017 5:48:27 PM:Projection pass on 15
+12/10/2017 5:48:27 PM:Queen id#71
+12/10/2017 5:48:27 PM:Projection pass on 15
+12/10/2017 5:48:27 PM:         Move vertically down 1
+12/10/2017 5:48:27 PM:14-->24
+12/10/2017 5:48:27 PM:Projection pass on 15
+12/10/2017 5:48:27 PM:Projection pass on 15
+12/10/2017 5:48:27 PM:Projection pass on 15
+12/10/2017 5:48:27 PM:Projection pass on 15
+12/10/2017 5:48:27 PM:Projection pass on 15
+12/10/2017 5:48:27 PM:Projection pass on 15
+12/10/2017 5:48:27 PM:Projection pass on 15
+12/10/2017 5:48:27 PM:Projection pass on 15
+12/10/2017 5:48:27 PM:Queen id#71
+12/10/2017 5:48:27 PM:Projection pass on 15
+12/10/2017 5:48:27 PM:         Move vertically down 1
+12/10/2017 5:48:27 PM:14-->24
+12/10/2017 5:48:27 PM:Projection pass on 15
+12/10/2017 5:48:27 PM:         Move vertically down 2
+12/10/2017 5:48:27 PM:17-->36
+12/10/2017 5:48:27 PM:Projection pass on 15
+12/10/2017 5:48:27 PM:Move: 21
+12/10/2017 5:48:27 PM:17-->38
+12/10/2017 5:48:28 PM:Projection pass on 15
+12/10/2017 5:48:28 PM:14-->24
+12/10/2017 5:48:28 PM:Projection pass on 15
+12/10/2017 5:48:28 PM:         Move vertically down 2
+12/10/2017 5:48:28 PM:14-->34
+12/10/2017 5:48:28 PM:Projection pass on 15
+12/10/2017 5:48:28 PM:Projection pass on 15
+12/10/2017 5:48:28 PM:Projection pass on 15
+12/10/2017 5:48:28 PM:Projection pass on 15
+12/10/2017 5:48:28 PM:Projection pass on 15
+12/10/2017 5:48:28 PM:Projection pass on 15
+12/10/2017 5:48:28 PM:Projection pass on 15
+12/10/2017 5:48:28 PM:Projection pass on 15
+12/10/2017 5:48:28 PM:Projection pass on 15
+12/10/2017 5:48:28 PM:Projection pass on 15
+12/10/2017 5:48:28 PM:Projection pass on 15
+12/10/2017 5:48:28 PM:Projection pass on 15
+12/10/2017 5:48:28 PM:Projection pass on 15
+12/10/2017 5:48:28 PM:Projection pass on 15
+12/10/2017 5:48:28 PM:13-->46
+12/10/2017 5:48:28 PM:Projection pass on 15
+12/10/2017 5:48:28 PM:         Move down and to the right 4
+12/10/2017 5:48:28 PM:Projection pass on 15
+12/10/2017 5:48:28 PM:Move: 19
+12/10/2017 5:48:28 PM:Projection pass on 15
+12/10/2017 5:48:29 PM:Projection pass on 15
+12/10/2017 5:48:29 PM:Projection pass on 15
+12/10/2017 5:48:29 PM:Projection pass on 15
+12/10/2017 5:48:29 PM:Projection pass on 15
+12/10/2017 5:48:29 PM:
+12/10/2017 5:48:29 PM:Pawn id#15
+12/10/2017 5:48:29 PM:Projection pass on 15
+12/10/2017 5:48:29 PM:   Single move:
+12/10/2017 5:48:29 PM:   22-->12
+12/10/2017 5:48:29 PM:
+12/10/2017 5:48:29 PM:Pawn id#13
+12/10/2017 5:48:29 PM:Projection pass on 15
+12/10/2017 5:48:29 PM: Double move:
+12/10/2017 5:48:29 PM: 23-->3
+12/10/2017 5:48:29 PM:Projection pass on 15
+12/10/2017 5:48:29 PM:   Single move:
+12/10/2017 5:48:29 PM:   23-->13
+12/10/2017 5:48:29 PM:
+12/10/2017 5:48:29 PM:Pawn id#15
+12/10/2017 5:48:29 PM: Double move:
+12/10/2017 5:48:29 PM: 27-->7
+12/10/2017 5:48:29 PM:Projection pass on 15
+12/10/2017 5:48:29 PM:   Single move:
+12/10/2017 5:48:29 PM:   27-->17
+12/10/2017 5:48:29 PM:
+12/10/2017 5:48:29 PM:Pawn id#18
+12/10/2017 5:48:29 PM:Projection pass on 15
+12/10/2017 5:48:29 PM:Projection pass on 15
+12/10/2017 5:48:29 PM:         Move down and to the right 3
+12/10/2017 5:48:30 PM:13-->46
+12/10/2017 5:48:30 PM:Projection pass on 15
+12/10/2017 5:48:30 PM: Double move:
+12/10/2017 5:48:30 PM: 22-->2
+12/10/2017 5:48:30 PM:
+12/10/2017 5:48:30 PM:Projection pass on 15
+12/10/2017 5:48:30 PM:Projection pass on 15
+12/10/2017 5:48:30 PM:Projection pass on 15
+12/10/2017 5:48:30 PM:Projection pass on 15
+12/10/2017 5:48:30 PM:Projection pass on 15
+12/10/2017 5:48:30 PM:Projection pass on 15
+12/10/2017 5:48:30 PM:Projection pass on 15
+12/10/2017 5:48:30 PM: 26-->6
+12/10/2017 5:48:30 PM:Projection pass on 15
+12/10/2017 5:48:30 PM:   Single move:
+12/10/2017 5:48:30 PM:   26-->16
+12/10/2017 5:48:30 PM:
+12/10/2017 5:48:30 PM:Pawn id#17
+12/10/2017 5:48:30 PM:Projection pass on 15
+12/10/2017 5:48:30 PM:   Single move:
+12/10/2017 5:48:30 PM:   23-->13
+12/10/2017 5:48:30 PM:
+12/10/2017 5:48:30 PM:   23-->13
+12/10/2017 5:48:30 PM:
+12/10/2017 5:48:30 PM:Projection pass on 15
+12/10/2017 5:48:31 PM:Move: 12
+12/10/2017 5:48:31 PM:12-->24
+12/10/2017 5:48:31 PM:
+12/10/2017 5:48:31 PM:Bishop id#31
+12/10/2017 5:48:31 PM:Projection pass on 15
+12/10/2017 5:48:31 PM:         Move down and to the right 1
+12/10/2017 5:48:31 PM:13-->24
+12/10/2017 5:48:31 PM:Projection pass on 15
+12/10/2017 5:48:31 PM:         Move down and to the right 2
+12/10/2017 5:48:31 PM:13-->35
+12/10/2017 5:48:31 PM:Projection pass on 15
+12/10/2017 5:48:31 PM:
+12/10/2017 5:48:31 PM:Pawn id#18
+12/10/2017 5:48:31 PM:Projection pass on 15
+12/10/2017 5:48:31 PM: Double move:
+12/10/2017 5:48:31 PM:         Move down and to the right 3
+12/10/2017 5:48:31 PM:13-->46
+12/10/2017 5:48:31 PM:Projection pass on 15
+12/10/2017 5:48:31 PM:Pawn id#15
+12/10/2017 5:48:31 PM:Projection pass on 15
+12/10/2017 5:48:31 PM: Double move:
+12/10/2017 5:48:31 PM: 25-->5
+12/10/2017 5:48:31 PM:Projection pass on 15
+12/10/2017 5:48:31 PM:   Single move:
+12/10/2017 5:48:32 PM:   25-->15
+12/10/2017 5:48:32 PM:
+12/10/2017 5:48:32 PM:Pawn id#16
+12/10/2017 5:48:32 PM:Projection pass on 15
+12/10/2017 5:48:32 PM:Projection pass on 15
+12/10/2017 5:48:32 PM:   Single move:
+12/10/2017 5:48:32 PM:   25-->15
+12/10/2017 5:48:32 PM:Projection pass on 15
+12/10/2017 5:48:32 PM:
+12/10/2017 5:48:32 PM:Queen id#71
+12/10/2017 5:48:32 PM:Tower id#51
+12/10/2017 5:48:32 PM:
+12/10/2017 5:48:32 PM:Knight id#21
+12/10/2017 5:48:32 PM:Projection pass on 15
+12/10/2017 5:48:32 PM:Move: 19
+12/10/2017 5:48:32 PM:12-->31
+12/10/2017 5:48:32 PM:Pawn id#17
+12/10/2017 5:48:32 PM:Projection pass on 15
+12/10/2017 5:48:32 PM:Move: 21
+12/10/2017 5:48:32 PM:17-->38
+12/10/2017 5:48:32 PM:
+12/10/2017 5:48:32 PM:Tower id#52
+12/10/2017 5:48:32 PM:Projection pass on 15
+12/10/2017 5:48:33 PM:Projection pass on 15
+12/10/2017 5:48:33 PM:Projection pass on 15
+12/10/2017 5:48:33 PM:Projection pass on 15
+12/10/2017 5:48:33 PM:Projection pass on 15
+12/10/2017 5:48:33 PM:Projection pass on 15
+12/10/2017 5:48:33 PM:Projection pass on 15
+12/10/2017 5:48:33 PM:Projection pass on 24
+12/10/2017 5:48:33 PM:Projection pass on 15
+12/10/2017 5:48:33 PM:Projection pass on 15
+12/10/2017 5:48:33 PM:
+12/10/2017 5:48:33 PM:Projection pass on 15
+12/10/2017 5:48:33 PM:         Move down and to the left
+12/10/2017 5:48:33 PM:Projection pass on 15
+12/10/2017 5:48:33 PM: Double move:
+12/10/2017 5:48:33 PM: 27-->7
+12/10/2017 5:48:33 PM:Projection pass on 15
+12/10/2017 5:48:33 PM:   Single move:
+12/10/2017 5:48:33 PM:   27-->17
+12/10/2017 5:48:33 PM:Projection pass on 15
+12/10/2017 5:48:33 PM:Projection pass on 15
+12/10/2017 5:48:33 PM:Projection pass on 24
+12/10/2017 5:48:33 PM:Projection pass on 15
+12/10/2017 5:48:33 PM:Projection pass on 15
+12/10/2017 5:48:33 PM:   Single move:
+12/10/2017 5:48:33 PM:   28-->18
+12/10/2017 5:48:33 PM:Projection pass on 15
+12/10/2017 5:48:33 PM:Projection pass on 15
+12/10/2017 5:48:33 PM:Projection pass on 15
+12/10/2017 5:48:33 PM:Projection pass on 15
+12/10/2017 5:48:33 PM:Projection pass on 15
+12/10/2017 5:48:34 PM:Projection pass on 15
+12/10/2017 5:48:34 PM:Projection pass on 15
+12/10/2017 5:48:34 PM:Projection pass on 15
+12/10/2017 5:48:34 PM:Layer 3:
+12/10/2017 5:48:34 PM:Projection pass on 15
+12/10/2017 5:48:34 PM:   Single move:
+12/10/2017 5:48:34 PM:   27-->17
+12/10/2017 5:48:34 PM:
+12/10/2017 5:48:34 PM:Pawn id#18
+12/10/2017 5:48:34 PM:Projection pass on 15
+12/10/2017 5:48:34 PM:Projection pass on 15
+12/10/2017 5:48:34 PM:Move: 21
+12/10/2017 5:48:34 PM:17-->38
+12/10/2017 5:48:34 PM:
+12/10/2017 5:48:34 PM:Pawn id#14
+12/10/2017 5:48:34 PM:
+12/10/2017 5:48:34 PM:
+12/10/2017 5:48:34 PM:Projection pass on 15
+12/10/2017 5:48:34 PM:Projection pass on 15
+12/10/2017 5:48:34 PM:   28-->18
+12/10/2017 5:48:34 PM:Projection pass on 15
+12/10/2017 5:48:34 PM:Projection pass on 15
+12/10/2017 5:48:34 PM:Projection pass on 24
+12/10/2017 5:48:34 PM:Projection pass on 15
+12/10/2017 5:48:35 PM:Projection pass on 15
+12/10/2017 5:48:35 PM:
+12/10/2017 5:48:35 PM: 21-->1
+12/10/2017 5:48:35 PM:Projection pass on 15
+12/10/2017 5:48:35 PM:Projection pass on 15
+12/10/2017 5:48:35 PM:Projection pass on 15
+12/10/2017 5:48:35 PM:Projection pass on 24
+12/10/2017 5:48:35 PM:Projection pass on 15
+12/10/2017 5:48:35 PM:Projection pass on 15
+12/10/2017 5:48:35 PM:   21-->11
+12/10/2017 5:48:35 PM:
+12/10/2017 5:48:35 PM:Projection pass on 15
+12/10/2017 5:48:35 PM:Projection pass on 15
+12/10/2017 5:48:35 PM:
+12/10/2017 5:48:35 PM:Projection pass on 15
+12/10/2017 5:48:35 PM:Projection pass on 15
+12/10/2017 5:48:35 PM: 21-->1
+12/10/2017 5:48:35 PM:Projection pass on 15
+12/10/2017 5:48:35 PM:
+12/10/2017 5:48:35 PM:Pawn id#17
+12/10/2017 5:48:35 PM:Projection pass on 15
+12/10/2017 5:48:35 PM: Double move:
+12/10/2017 5:48:36 PM: 27-->7
+12/10/2017 5:48:36 PM:Projection pass on 15
+12/10/2017 5:48:36 PM:   Single move:
+12/10/2017 5:48:36 PM:   27-->17
+12/10/2017 5:48:36 PM:
+12/10/2017 5:48:36 PM:Pawn id#18
+12/10/2017 5:48:36 PM:Pawn id#13
+12/10/2017 5:48:36 PM:Projection pass on 15
+12/10/2017 5:48:36 PM:Projection pass on 15
+12/10/2017 5:48:36 PM:Projection pass on 15
+12/10/2017 5:48:36 PM:Projection pass on 15
+12/10/2017 5:48:36 PM:Projection pass on 15
+12/10/2017 5:48:36 PM:Projection pass on 15
+12/10/2017 5:48:36 PM:Projection pass on 15
+12/10/2017 5:48:36 PM:Projection pass on 15
+12/10/2017 5:48:36 PM:Projection pass on 15
+12/10/2017 5:48:36 PM:Projection pass on 15
+12/10/2017 5:48:36 PM:Projection pass on 15
+12/10/2017 5:48:36 PM:Projection pass on 15
+12/10/2017 5:48:36 PM:Projection pass on 15
+12/10/2017 5:48:36 PM:Projection pass on 15
+12/10/2017 5:48:36 PM:Projection pass on 24
+12/10/2017 5:48:36 PM:Projection pass on 15
+12/10/2017 5:48:36 PM:Projection pass on 15
+12/10/2017 5:48:36 PM:   Single move:
+12/10/2017 5:48:36 PM:   22-->12
+12/10/2017 5:48:36 PM:
+12/10/2017 5:48:37 PM:Pawn id#13
+12/10/2017 5:48:37 PM:Projection pass on 15
+12/10/2017 5:48:37 PM: Double move:
+12/10/2017 5:48:37 PM:Projection pass on 15
+12/10/2017 5:48:37 PM: Double move:
+12/10/2017 5:48:37 PM:
+12/10/2017 5:48:37 PM:Projection pass on 15
+12/10/2017 5:48:37 PM:Projection pass on 85
+12/10/2017 5:48:37 PM:Projection pass on 85
+12/10/2017 5:48:37 PM:Projection pass on 85
+12/10/2017 5:48:37 PM:Projection pass on 85
+12/10/2017 5:48:37 PM:   Single move:
+12/10/2017 5:48:37 PM:   23-->13
+12/10/2017 5:48:37 PM:
+12/10/2017 5:48:37 PM:Pawn id#15
+12/10/2017 5:48:37 PM:Projection pass on 15
+12/10/2017 5:48:37 PM: Double move:
+12/10/2017 5:48:37 PM: 25-->5
+12/10/2017 5:48:37 PM:Projection pass on 15
+12/10/2017 5:48:37 PM:   Single move:
+12/10/2017 5:48:38 PM:   25-->15
+12/10/2017 5:48:38 PM:
+12/10/2017 5:48:38 PM:Projection pass on 15
+12/10/2017 5:48:38 PM:Projection pass on 85
+12/10/2017 5:48:38 PM:Projection pass on 85
+12/10/2017 5:48:38 PM:Projection pass on 85
+12/10/2017 5:48:38 PM:Projection pass on 15
+12/10/2017 5:48:38 PM:Projection pass on 15
+12/10/2017 5:48:38 PM:Projection pass on 85
+12/10/2017 5:48:38 PM:Projection pass on 85
+12/10/2017 5:48:38 PM:Projection pass on 74
+12/10/2017 5:48:38 PM:Projection pass on 85
+12/10/2017 5:48:38 PM:Projection pass on 85
+12/10/2017 5:48:38 PM:Projection pass on 85
+12/10/2017 5:48:38 PM:Projection pass on 15
+12/10/2017 5:48:38 PM:   Single move:
+12/10/2017 5:48:38 PM:
+12/10/2017 5:48:38 PM:Projection pass on 85
+12/10/2017 5:48:38 PM:Projection pass on 85
+12/10/2017 5:48:38 PM:Projection pass on 15
+12/10/2017 5:48:38 PM:Projection pass on 15
+12/10/2017 5:48:38 PM:
+12/10/2017 5:48:38 PM:Pawn id#17
+12/10/2017 5:48:38 PM:Projection pass on 15
+12/10/2017 5:48:39 PM: Double move:
+12/10/2017 5:48:39 PM:Projection pass on 85
+12/10/2017 5:48:39 PM:Projection pass on 85
+12/10/2017 5:48:39 PM:Projection pass on 85
+12/10/2017 5:48:39 PM: Double move:
+12/10/2017 5:48:39 PM: 28-->8
+12/10/2017 5:48:39 PM:Projection pass on 15
+12/10/2017 5:48:39 PM:Projection pass on 15
+12/10/2017 5:48:39 PM:   Single move:
+12/10/2017 5:48:39 PM:   27-->17
+12/10/2017 5:48:39 PM:
+12/10/2017 5:48:39 PM:Projection pass on 15
+12/10/2017 5:48:39 PM:
+12/10/2017 5:48:39 PM:Projection pass on 15
+12/10/2017 5:48:39 PM:Projection pass on 15
+12/10/2017 5:48:39 PM:Projection pass on 15
+12/10/2017 5:48:39 PM:Projection pass on 15
+12/10/2017 5:48:39 PM:Projection pass on 15
+12/10/2017 5:48:39 PM:Projection pass on 15
+12/10/2017 5:48:39 PM:Projection pass on 15
+12/10/2017 5:48:39 PM:Projection pass on 15
+12/10/2017 5:48:39 PM:Projection pass on 85
+12/10/2017 5:48:39 PM:Projection pass on 85
+12/10/2017 5:48:40 PM:Projection pass on 85
+12/10/2017 5:48:40 PM:Projection pass on 15
+12/10/2017 5:48:40 PM:Projection pass on 15
+12/10/2017 5:48:40 PM:
+12/10/2017 5:48:40 PM:Projection pass on 15
+12/10/2017 5:48:40 PM:Projection pass on 15
+12/10/2017 5:48:40 PM:
+12/10/2017 5:48:40 PM:Projection pass on 15
+12/10/2017 5:48:40 PM:
+12/10/2017 5:48:40 PM:Pawn id#14
+12/10/2017 5:48:40 PM: 28-->8
+12/10/2017 5:48:40 PM:Projection pass on 15
+12/10/2017 5:48:40 PM:   Single move:
+12/10/2017 5:48:40 PM:   28-->18
+12/10/2017 5:48:40 PM:
+12/10/2017 5:48:40 PM:Projection pass on 85
+12/10/2017 5:48:40 PM:Projection pass on 85
+12/10/2017 5:48:40 PM:Projection pass on 85
+12/10/2017 5:48:40 PM:
+12/10/2017 5:48:40 PM:Projection pass on 15
+12/10/2017 5:48:40 PM:Projection pass on 15
+12/10/2017 5:48:41 PM:Projection pass on 15
+12/10/2017 5:48:41 PM:Projection pass on 15
+12/10/2017 5:48:41 PM:Projection pass on 15
+12/10/2017 5:48:41 PM:Projection pass on 15
+12/10/2017 5:48:41 PM:Layer 3:
+12/10/2017 5:48:41 PM:Projection pass on 15
+12/10/2017 5:48:41 PM:Projection pass on 15
+12/10/2017 5:48:41 PM:Projection pass on 85
+12/10/2017 5:48:41 PM:Projection pass on 85
+12/10/2017 5:48:41 PM:Projection pass on 85
+12/10/2017 5:48:41 PM:Projection pass on 85
+12/10/2017 5:48:41 PM:
+12/10/2017 5:48:41 PM:Projection pass on 85
+12/10/2017 5:48:41 PM:Projection pass on 85
+12/10/2017 5:48:41 PM:Projection pass on 85
+12/10/2017 5:48:41 PM:Projection pass on 85
+12/10/2017 5:48:41 PM:Projection pass on 85
+12/10/2017 5:48:41 PM:Projection pass on 85
+12/10/2017 5:48:42 PM:Projection pass on 85
+12/10/2017 5:48:42 PM:Projection pass on 85
+12/10/2017 5:48:42 PM:Projection pass on 85
+12/10/2017 5:48:42 PM:
+12/10/2017 5:48:42 PM:Projection pass on 85
+12/10/2017 5:48:42 PM:Projection pass on 15
+12/10/2017 5:48:42 PM:Projection pass on 15
+12/10/2017 5:48:42 PM:Projection pass on 15
+12/10/2017 5:48:42 PM:Projection pass on 15
+12/10/2017 5:48:42 PM:Projection pass on 15
+12/10/2017 5:48:42 PM:Projection pass on 15
+12/10/2017 5:48:42 PM:
+12/10/2017 5:48:42 PM:Projection pass on 85
+12/10/2017 5:48:42 PM:Projection pass on 85
+12/10/2017 5:48:42 PM:Projection pass on 85
+12/10/2017 5:48:42 PM:Projection pass on 85
+12/10/2017 5:48:42 PM:Projection pass on 15
+12/10/2017 5:48:42 PM:Projection pass on 85
+12/10/2017 5:48:42 PM:Projection pass on 85
+12/10/2017 5:48:43 PM:Projection pass on 85
+12/10/2017 5:48:43 PM:Projection pass on 85
+12/10/2017 5:48:43 PM:Projection pass on 85
+12/10/2017 5:48:43 PM:Projection pass on 15
+12/10/2017 5:48:43 PM:Move: 21
+12/10/2017 5:48:43 PM:Projection pass on 85
+12/10/2017 5:48:43 PM:Projection pass on 85
+12/10/2017 5:48:43 PM:Projection pass on 85
+12/10/2017 5:48:43 PM:Projection pass on 85
+12/10/2017 5:48:43 PM:
+12/10/2017 5:48:43 PM:Pawn id#15
+12/10/2017 5:48:43 PM:Projection pass on 15
+12/10/2017 5:48:43 PM: Double move:
+12/10/2017 5:48:43 PM: 25-->5
+12/10/2017 5:48:43 PM:Projection pass on 15
+12/10/2017 5:48:43 PM:   Single move:
+12/10/2017 5:48:43 PM:   25-->15
+12/10/2017 5:48:43 PM:
+12/10/2017 5:48:43 PM:Pawn id#16
+12/10/2017 5:48:44 PM:Projection pass on 15
+12/10/2017 5:48:44 PM: Double move:
+12/10/2017 5:48:44 PM: 26-->6
+12/10/2017 5:48:44 PM:Projection pass on 15
+12/10/2017 5:48:44 PM:Projection pass on 85
+12/10/2017 5:48:44 PM:Projection pass on 85
+12/10/2017 5:48:44 PM:Projection pass on 15
+12/10/2017 5:48:44 PM:Projection pass on 85
+12/10/2017 5:48:44 PM:Projection pass on 85
+12/10/2017 5:48:44 PM:Projection pass on 85
+12/10/2017 5:48:44 PM:Projection pass on 85
+12/10/2017 5:48:44 PM:Projection pass on 85
+12/10/2017 5:48:44 PM:Projection pass on 85
+12/10/2017 5:48:44 PM:Projection pass on 74
+12/10/2017 5:48:44 PM:Projection pass on 85
+12/10/2017 5:48:44 PM:Projection pass on 85
+12/10/2017 5:48:44 PM:Projection pass on 85
+12/10/2017 5:48:44 PM:Projection pass on 15
+12/10/2017 5:48:45 PM:Projection pass on 15
+12/10/2017 5:48:45 PM:Projection pass on 15
+12/10/2017 5:48:45 PM: Double move:
+12/10/2017 5:48:45 PM: 27-->7
+12/10/2017 5:48:45 PM:Projection pass on 15
+12/10/2017 5:48:45 PM:   Single move:
+12/10/2017 5:48:45 PM:Projection pass on 85
+12/10/2017 5:48:45 PM:13-->57
+12/10/2017 5:48:45 PM:Projection pass on 85
+12/10/2017 5:48:45 PM:Projection pass on 85
+12/10/2017 5:48:45 PM:Projection pass on 85
+12/10/2017 5:48:45 PM:Projection pass on 85
+12/10/2017 5:48:45 PM:Projection pass on 85
+12/10/2017 5:48:45 PM:Projection pass on 85
+12/10/2017 5:48:45 PM:Projection pass on 15
+12/10/2017 5:48:45 PM:Layer 3:
+12/10/2017 5:48:45 PM:Projection pass on 76
+12/10/2017 5:48:45 PM:Projection pass on 85
+12/10/2017 5:48:45 PM:Projection pass on 85
+12/10/2017 5:48:45 PM:
+12/10/2017 5:48:45 PM:Projection pass on 85
+12/10/2017 5:48:46 PM:Projection pass on 85
+12/10/2017 5:48:46 PM:Projection pass on 85
+12/10/2017 5:48:46 PM:Projection pass on 85
+12/10/2017 5:48:46 PM:
+12/10/2017 5:48:46 PM: Double move:
+12/10/2017 5:48:46 PM: 28-->8
+12/10/2017 5:48:46 PM:Projection pass on 15
+12/10/2017 5:48:46 PM:   Single move:
+12/10/2017 5:48:46 PM:   28-->18
+12/10/2017 5:48:46 PM:Projection pass on 15
+12/10/2017 5:48:46 PM:Projection pass on 15
+12/10/2017 5:48:46 PM:Projection pass on 15
+12/10/2017 5:48:46 PM:Projection pass on 15
+12/10/2017 5:48:46 PM:Projection pass on 15
+12/10/2017 5:48:47 PM:Projection pass on 15
+12/10/2017 5:48:47 PM:Projection pass on 15
+12/10/2017 5:48:47 PM:Projection pass on 15
+12/10/2017 5:48:47 PM:Projection pass on 24
+12/10/2017 5:48:47 PM:Projection pass on 85
+12/10/2017 5:48:47 PM:Projection pass on 85
+12/10/2017 5:48:47 PM:Number of possible hostile countermoves: 27
+12/10/2017 5:48:47 PM:Projection pass on 15
+12/10/2017 5:48:47 PM:Projection pass on 85
+12/10/2017 5:48:47 PM:Projection pass on 85
+12/10/2017 5:48:47 PM:Projection pass on 15
+12/10/2017 5:48:47 PM:Projection pass on 15
+12/10/2017 5:48:47 PM:Projection pass on 15
+12/10/2017 5:48:47 PM:Projection pass on 15
+12/10/2017 5:48:47 PM:Projection pass on 15
+12/10/2017 5:48:47 PM:Projection pass on 15
+12/10/2017 5:48:47 PM:
+12/10/2017 5:48:47 PM:Projection pass on 15
+12/10/2017 5:48:47 PM:Projection pass on 85
+12/10/2017 5:48:47 PM:Projection pass on 85
+12/10/2017 5:48:48 PM:
+12/10/2017 5:48:48 PM:Projection pass on 85
+12/10/2017 5:48:48 PM:Projection pass on 85
+12/10/2017 5:48:48 PM:Projection pass on 15
+12/10/2017 5:48:48 PM:Projection pass on 15
+12/10/2017 5:48:48 PM:Projection pass on 15
+12/10/2017 5:48:48 PM:Projection pass on 15
+12/10/2017 5:48:48 PM:Projection pass on 85
+12/10/2017 5:48:48 PM:Projection pass on 15
+12/10/2017 5:48:48 PM:Projection pass on 15
+12/10/2017 5:48:48 PM:Projection pass on 85
+12/10/2017 5:48:48 PM:
+12/10/2017 5:48:48 PM:Projection pass on 85
+12/10/2017 5:48:48 PM:Projection pass on 85
+12/10/2017 5:48:48 PM:Projection pass on 85
+12/10/2017 5:48:48 PM:Projection pass on 85
+12/10/2017 5:48:48 PM:Projection pass on 85
+12/10/2017 5:48:48 PM:Projection pass on 85
+12/10/2017 5:48:48 PM:Projection pass on 85
+12/10/2017 5:48:48 PM:Projection pass on 85
+12/10/2017 5:48:48 PM:
+12/10/2017 5:48:48 PM:Projection pass on 85
+12/10/2017 5:48:49 PM:Projection pass on 85
+12/10/2017 5:48:49 PM:Projection pass on 85
+12/10/2017 5:48:49 PM:Projection pass on 85
+12/10/2017 5:48:49 PM:Projection pass on 85
+12/10/2017 5:48:49 PM:Projection pass on 85
+12/10/2017 5:48:49 PM:Projection pass on 85
+12/10/2017 5:48:49 PM:Projection pass on 85
+12/10/2017 5:48:49 PM:
+12/10/2017 5:48:49 PM:Knight id#21
+12/10/2017 5:48:49 PM:Projection pass on 85
+12/10/2017 5:48:49 PM:Projection pass on 85
+12/10/2017 5:48:49 PM:Projection pass on 85
+12/10/2017 5:48:49 PM:Projection pass on 85
+12/10/2017 5:48:49 PM:Projection pass on 85
+12/10/2017 5:48:49 PM:
+12/10/2017 5:48:49 PM:Projection pass on 85
+12/10/2017 5:48:49 PM:Projection pass on 15
+12/10/2017 5:48:49 PM:Projection pass on 24
+12/10/2017 5:48:49 PM:Projection pass on 15
+12/10/2017 5:48:49 PM:Projection pass on 15
+12/10/2017 5:48:49 PM:
+12/10/2017 5:48:50 PM:Projection pass on 15
+12/10/2017 5:48:50 PM:Projection pass on 15
+12/10/2017 5:48:50 PM:
+12/10/2017 5:48:50 PM:Projection pass on 85
+12/10/2017 5:48:50 PM:Projection pass on 85
+12/10/2017 5:48:50 PM:Projection pass on 85
+12/10/2017 5:48:50 PM:Projection pass on 85
+12/10/2017 5:48:50 PM:Projection pass on 85
+12/10/2017 5:48:50 PM:Projection pass on 85
+12/10/2017 5:48:50 PM:Projection pass on 85
+12/10/2017 5:48:50 PM:Projection pass on 85
+12/10/2017 5:48:50 PM:Projection pass on 85
+12/10/2017 5:48:50 PM:Projection pass on 85
+12/10/2017 5:48:50 PM:Projection pass on 85
+12/10/2017 5:48:50 PM:Projection pass on 85
+12/10/2017 5:48:50 PM:Projection pass on 85
+12/10/2017 5:48:50 PM:Projection pass on 85
+12/10/2017 5:48:51 PM:
+12/10/2017 5:48:51 PM:Projection pass on 85
+12/10/2017 5:48:51 PM:Projection pass on 85
+12/10/2017 5:48:51 PM:Projection pass on 85
+12/10/2017 5:48:51 PM:
+12/10/2017 5:48:51 PM:Projection pass on 15
+12/10/2017 5:48:51 PM:Projection pass on 85
+12/10/2017 5:48:51 PM:Projection pass on 15
+12/10/2017 5:48:51 PM:Projection pass on 15
+12/10/2017 5:48:51 PM:Projection pass on 15
+12/10/2017 5:48:51 PM:Projection pass on 15
+12/10/2017 5:48:51 PM:Projection pass on 15
+12/10/2017 5:48:51 PM:Projection pass on 85
+12/10/2017 5:48:52 PM:Projection pass on 85
+12/10/2017 5:48:52 PM:Projection pass on 85
+12/10/2017 5:48:52 PM:Projection pass on 85
+12/10/2017 5:48:52 PM:Projection pass on 85
+12/10/2017 5:48:52 PM:Projection pass on 85
+12/10/2017 5:48:52 PM:Projection pass on 85
+12/10/2017 5:48:52 PM:Projection pass on 85
+12/10/2017 5:48:52 PM:Projection pass on 85
+12/10/2017 5:48:52 PM:Projection pass on 15
+12/10/2017 5:48:52 PM:Projection pass on 85
+12/10/2017 5:48:52 PM:Projection pass on 85
+12/10/2017 5:48:52 PM:Projection pass on 85
+12/10/2017 5:48:52 PM:Projection pass on 85
+12/10/2017 5:48:52 PM: Double move:
+12/10/2017 5:48:52 PM:13-->24
+12/10/2017 5:48:52 PM:Projection pass on 15
+12/10/2017 5:48:53 PM:Projection pass on 85
+12/10/2017 5:48:53 PM:Projection pass on 85
+12/10/2017 5:48:53 PM:Projection pass on 85
+12/10/2017 5:48:53 PM:Projection pass on 85
+12/10/2017 5:48:53 PM:Projection pass on 85
+12/10/2017 5:48:53 PM:Projection pass on 74
+12/10/2017 5:48:53 PM:Projection pass on 85
+12/10/2017 5:48:53 PM:Projection pass on 85
+12/10/2017 5:48:53 PM:Projection pass on 85
+12/10/2017 5:48:53 PM:Projection pass on 85
+12/10/2017 5:48:53 PM:
+12/10/2017 5:48:53 PM:Pawn id#16
+12/10/2017 5:48:53 PM:Projection pass on 15
+12/10/2017 5:48:53 PM: Double move:
+12/10/2017 5:48:53 PM: 26-->6
+12/10/2017 5:48:53 PM:Projection pass on 85
+12/10/2017 5:48:53 PM:Projection pass on 85
+12/10/2017 5:48:53 PM:Projection pass on 85
+12/10/2017 5:48:53 PM:Projection pass on 85
+12/10/2017 5:48:53 PM:Projection pass on 85
+12/10/2017 5:48:54 PM:Projection pass on 85
+12/10/2017 5:48:54 PM:Projection pass on 85
+12/10/2017 5:48:54 PM:Projection pass on 85
+12/10/2017 5:48:54 PM:Projection pass on 85
+12/10/2017 5:48:54 PM:Projection pass on 15
